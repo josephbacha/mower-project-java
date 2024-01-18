@@ -1,0 +1,6 @@
+server:
+  port: 8080
+file-path: /externalFiles/input.txt
+logging:
+  level:
+    root: INFO
