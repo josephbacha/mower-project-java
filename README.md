@@ -42,9 +42,8 @@ orientation.
 
 The following commands will run the program:
 ```
-cd mower-project
-go mod tidy
-go run main.go
+./gradlew clean
+./gradlew build
 ```
 
 ## Test the program
@@ -54,7 +53,7 @@ go run main.go
 Use the following command to run the unit tests :
 
 ```
-go test -v ./...
+./gradlew test
 ```
 ***
 
