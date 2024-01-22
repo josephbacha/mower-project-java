@@ -48,7 +48,16 @@ The following commands will run the program:
 
 ## Test the program
 
-2 tests files are implemented to insure the program functionality.
+3 tests files are implemented to insure the program functionality.
+
+The testing includes:
+- Unit tests
+- Functional Tests
+- Acceptance Tests
+- Regression Tests
+- Code Coverage Test
+- Error Handling Tests
+- Dependency Injection Tests
 
 Use the following command to run the unit tests :
 
